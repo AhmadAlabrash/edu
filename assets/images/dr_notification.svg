@@ -1,0 +1,24 @@
+<svg id="dr_notification" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1646" data-name="Rectangle 1646" width="24" height="24" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_2822" data-name="Group 2822" clip-path="url(#clip-path)">
+    <g id="Mask_Group_164" data-name="Mask Group 164">
+      <g id="Layer_1-10" data-name="Layer 1-10">
+        <g id="Notifications">
+          <g id="Path_12136" data-name="Path 12136">
+            <path id="Path_14028" data-name="Path 14028" d="M12.04,20.44a38.9,38.9,0,0,1-7.2-.67.354.354,0,0,1-.11-.03l-.08-.02a3.681,3.681,0,0,1-2.72-4.46L3.79,7.81a8.4,8.4,0,0,1,16.31,0l1.93,7.73a1.22,1.22,0,0,1,.05.22,3.417,3.417,0,0,1-2.71,3.98,39.378,39.378,0,0,1-7.33.69ZM5.22,18.31a37.392,37.392,0,0,0,13.87-.04A1.928,1.928,0,0,0,20.6,16c0-.03-.02-.07-.02-.1L18.65,8.17a6.909,6.909,0,0,0-13.41,0L3.38,15.62a2.171,2.171,0,0,0,1.59,2.63l.13.02s.08.02.11.03Z" fill="#2560fc"/>
+          </g>
+          <g id="Path_12137" data-name="Path 12137">
+            <path id="Path_14029" data-name="Path 14029" d="M12.03,23.91a4.342,4.342,0,0,1-4.34-4.34.75.75,0,0,1,1.5,0,2.84,2.84,0,0,0,5.68,0,.75.75,0,1,1,1.5,0,4.342,4.342,0,0,1-4.34,4.34Z" fill="#2560fc"/>
+          </g>
+          <g id="Line_34" data-name="Line 34">
+            <path id="Path_14030" data-name="Path 14030" d="M11.99,2.95a.755.755,0,0,1-.75-.75V.84a.75.75,0,0,1,1.5,0V2.2A.755.755,0,0,1,11.99,2.95Z" fill="#2560fc"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

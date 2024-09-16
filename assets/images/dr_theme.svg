@@ -1,0 +1,21 @@
+<svg id="dr_theme" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1652" data-name="Rectangle 1652" width="24" height="24" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_2828" data-name="Group 2828" clip-path="url(#clip-path)">
+    <g id="Mask_Group_160" data-name="Mask Group 160">
+      <g id="Layer_1-6" data-name="Layer 1-6">
+        <g id="Dark_Mode" data-name="Dark Mode">
+          <g id="Ellipse_43" data-name="Ellipse 43">
+            <path id="Path_14050" data-name="Path 14050" d="M12,16.52A4.52,4.52,0,1,1,16.52,12,4.528,4.528,0,0,1,12,16.52Zm0-7.54A3.02,3.02,0,1,0,15.02,12,3.024,3.024,0,0,0,12,8.98Z" fill="#2560fc"/>
+          </g>
+          <g id="Ellipse_44" data-name="Ellipse 44">
+            <path id="Path_14051" data-name="Path 14051" d="M12,20.9C5.43,20.9.09,16.91.09,12S5.43,3.1,12,3.1,23.91,7.09,23.91,12,18.57,20.9,12,20.9ZM12,4.6C6.26,4.6,1.59,7.92,1.59,12S6.26,19.4,12,19.4,22.41,16.08,22.41,12,17.74,4.6,12,4.6Z" fill="#2560fc"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

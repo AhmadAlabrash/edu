@@ -1,0 +1,33 @@
+<svg id="dr_terms" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1651" data-name="Rectangle 1651" width="24" height="24" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_2827" data-name="Group 2827" clip-path="url(#clip-path)">
+    <g id="Mask_Group_169" data-name="Mask Group 169">
+      <g id="Layer_1-15" data-name="Layer 1-15">
+        <g id="Terms_conditions" data-name="Terms conditions">
+          <g id="Path_12138" data-name="Path 12138">
+            <path id="Path_14044" data-name="Path 14044" d="M15.88,23.91H7.05A6.9,6.9,0,0,1,.16,17.02V8.04a6.905,6.905,0,0,1,6.9-6.89H9.51a.75.75,0,1,1,0,1.5H7.06a5.414,5.414,0,0,0-5.4,5.39v8.98a5.405,5.405,0,0,0,5.39,5.39h8.84a5.405,5.405,0,0,0,5.39-5.39V13.2a.75.75,0,0,1,1.5,0v3.82a6.91,6.91,0,0,1-6.89,6.89Z" fill="#2560fc"/>
+          </g>
+          <g id="Rectangle_1196" data-name="Rectangle 1196">
+            <path id="Path_14045" data-name="Path 14045" d="M18.36,12.22h-.95a5.488,5.488,0,0,1-5.48-5.48V5.57A5.488,5.488,0,0,1,17.41.09h.95a5.488,5.488,0,0,1,5.48,5.48V6.74A5.488,5.488,0,0,1,18.36,12.22ZM17.41,1.59a3.984,3.984,0,0,0-3.98,3.98V6.74a3.984,3.984,0,0,0,3.98,3.98h.95a3.984,3.984,0,0,0,3.98-3.98V5.57a3.984,3.984,0,0,0-3.98-3.98h-.95Z" fill="#2560fc"/>
+          </g>
+          <g id="Path_12139" data-name="Path 12139">
+            <path id="Path_14046" data-name="Path 14046" d="M17.89,8.07a.734.734,0,0,1-.52-.21L16.06,6.61A.75.75,0,1,1,17.1,5.53l.76.73,1.63-1.71a.75.75,0,0,1,1.09,1.03L18.43,7.83a.759.759,0,0,1-.53.23h-.02Z" fill="#2560fc"/>
+          </g>
+          <g id="Line_35" data-name="Line 35">
+            <path id="Path_14047" data-name="Path 14047" d="M16.51,18.32H5.82a.75.75,0,0,1,0-1.5H16.51a.75.75,0,0,1,0,1.5Z" fill="#2560fc"/>
+          </g>
+          <g id="Line_36" data-name="Line 36">
+            <path id="Path_14048" data-name="Path 14048" d="M12.16,13.71H5.82a.75.75,0,0,1,0-1.5h6.34a.75.75,0,0,1,0,1.5Z" fill="#2560fc"/>
+          </g>
+          <g id="Line_37" data-name="Line 37">
+            <path id="Path_14049" data-name="Path 14049" d="M8.83,9.11H5.82a.75.75,0,0,1,0-1.5H8.83a.75.75,0,0,1,0,1.5Z" fill="#2560fc"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

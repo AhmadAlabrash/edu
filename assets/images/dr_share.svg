@@ -1,0 +1,30 @@
+<svg id="dr_share" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1650" data-name="Rectangle 1650" width="24" height="24" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_2826" data-name="Group 2826" clip-path="url(#clip-path)">
+    <g id="Mask_Group_168" data-name="Mask Group 168">
+      <g id="Layer_1-14" data-name="Layer 1-14">
+        <g id="Share_App" data-name="Share App">
+          <g id="Ellipse_45" data-name="Ellipse 45">
+            <path id="Path_14039" data-name="Path 14039" d="M18.26,9.13a4.52,4.52,0,1,1,4.52-4.52A4.528,4.528,0,0,1,18.26,9.13Zm0-7.54a3.02,3.02,0,1,0,3.02,3.02,3.024,3.024,0,0,0-3.02-3.02Z" fill="#2560fc"/>
+          </g>
+          <g id="Ellipse_46" data-name="Ellipse 46">
+            <path id="Path_14040" data-name="Path 14040" d="M18.26,23.91a4.52,4.52,0,1,1,4.52-4.52A4.528,4.528,0,0,1,18.26,23.91Zm0-7.54a3.02,3.02,0,1,0,3.02,3.02A3.024,3.024,0,0,0,18.26,16.37Z" fill="#2560fc"/>
+          </g>
+          <g id="Ellipse_47" data-name="Ellipse 47">
+            <path id="Path_14041" data-name="Path 14041" d="M5.74,16.38a4.52,4.52,0,1,1,4.52-4.52,4.528,4.528,0,0,1-4.52,4.52Zm0-7.55a3.02,3.02,0,1,0,3.02,3.02A3.024,3.024,0,0,0,5.74,8.83Z" fill="#2560fc"/>
+          </g>
+          <g id="Line_38" data-name="Line 38">
+            <path id="Path_14042" data-name="Path 14042" d="M8.99,10.69a.746.746,0,0,1-.41-1.37l5.79-3.86a.75.75,0,1,1,.83,1.25L9.41,10.57a.718.718,0,0,1-.42.13Z" fill="#2560fc"/>
+          </g>
+          <g id="Line_39" data-name="Line 39">
+            <path id="Path_14043" data-name="Path 14043" d="M14.88,18.44a.779.779,0,0,1-.41-.12L8.54,14.44a.752.752,0,0,1,.82-1.26l5.93,3.88a.756.756,0,0,1,.22,1.04.741.741,0,0,1-.63.34Z" fill="#2560fc"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

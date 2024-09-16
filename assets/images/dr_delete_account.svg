@@ -1,0 +1,24 @@
+<svg id="dr_delete_account" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1642" data-name="Rectangle 1642" width="24" height="24" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_2818" data-name="Group 2818" clip-path="url(#clip-path)">
+    <g id="Mask_Group_161" data-name="Mask Group 161">
+      <g id="Layer_1-7" data-name="Layer 1-7">
+        <g id="Delete_Account" data-name="Delete Account">
+          <g id="Ellipse_91" data-name="Ellipse 91">
+            <path id="Path_14005" data-name="Path 14005" d="M10.62,11.03a5.47,5.47,0,1,1,5.47-5.47,5.471,5.471,0,0,1-5.47,5.47Zm0-9.44a3.97,3.97,0,1,0,3.97,3.97,3.973,3.973,0,0,0-3.97-3.97Z" fill="#2560fc"/>
+          </g>
+          <g id="Path_13989" data-name="Path 13989">
+            <path id="Path_14006" data-name="Path 14006" d="M14.13,23.91H7.11a5.47,5.47,0,1,1,0-10.94l7.03.08a.75.75,0,0,1-.01,1.5h0l-7.02-.08a3.97,3.97,0,0,0,.01,7.94h7.02a.75.75,0,0,1,0,1.5Z" fill="#2560fc"/>
+          </g>
+          <g id="Path_13990" data-name="Path 13990">
+            <path id="Path_14007" data-name="Path 14007" d="M21.54,21.98a.758.758,0,0,1-.54-.23l-1.92-1.97-1.97,1.93a.745.745,0,0,1-1.27-.53.776.776,0,0,1,.23-.54l1.98-1.93-1.93-1.98a.751.751,0,0,1-.21-.52.775.775,0,0,1,.23-.54.754.754,0,0,1,1.06.01l1.93,1.97,1.99-1.98a.754.754,0,0,1,1.06,0,.742.742,0,0,1,.22.53.725.725,0,0,1-.22.53l-2,1.99,1.93,1.98a.75.75,0,0,1-.54,1.27Z" fill="#2560fc"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
